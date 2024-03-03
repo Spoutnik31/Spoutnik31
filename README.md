@@ -7,6 +7,5 @@
 - 📫 How to reach me:
 - [My website](https://www.binarydoc.fr/contact)
 - [My email](mailto:1a1e913gt@mozmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Optimising Hardware
 
