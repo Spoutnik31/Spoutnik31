@@ -8,4 +8,5 @@
 - [My website](https://www.binarydoc.fr/contact)
 - [My email](mailto:1a1e913gt@mozmail.com)
 - ⚡ Fun fact: Optimising Hardware
+- I learnt : HTML5, CSS, JS, SQL, Python, PHP, C,C++, SH, BASH, ASM, Node.JS, Vue.JS
 
