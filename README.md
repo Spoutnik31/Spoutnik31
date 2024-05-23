@@ -1,6 +1,6 @@
 # Spoutnik31
 
-- 🔭 I’m currently working on EviLife
+- 🔭 I’m currently working on XMR-miner
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on _Cyb3r
 - 💬 Ask me about All
