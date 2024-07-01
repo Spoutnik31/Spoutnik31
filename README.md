@@ -1,5 +1,5 @@
 # 🖥️ Spoutnik31
-## Now
+## ⬇️ Now
 - 🔭 I’m currently working on XMR-miner
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate with _Cyb3r
