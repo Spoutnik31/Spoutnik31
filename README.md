@@ -2,7 +2,7 @@
 ## Now
 - 🔭 I’m currently working on XMR-miner
 - 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on _Cyb3r
+- 👯 I’m looking to collaborate with _Cyb3r
 - 💬 Ask me about All
 ## 📫 How to reach me:
 - 💬 Ask me about All
