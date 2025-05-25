@@ -1,8 +1,8 @@
 # 🖥️ Spoutnik31
 ## ⬇️ Now
-- 🔭 I’m currently working on XMR-miner
+- 🔭 I’m currently working on Gazex App ( will maybe be publised )
 - 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate with _Cyb3r
+- 👯 I’m looking to collaborate with the matrix
 ## 📫 How to reach me:
 - 💬 Ask me about All
 - No website sorry it's in progress
